@@ -1,5 +1,5 @@
 {
-  "name": "facerecognitionbrain",
+  "name": "fumorecognition",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,9 +7,11 @@
     "particles-bg": "^2.5.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-parallax-tilt": "^1.7.67",
+    "react-parallax-tilt": "^1.7.68",
     "react-scripts": "^5.0.1",
-    "tachyons": "^4.12.0"
+    "react-tsparticles": "^2.3.3",
+    "tachyons": "^4.12.0",
+    "tsparticles": "^2.3.4"
   },
   "scripts": {
     "start": "react-scripts start",
